@@ -1,2 +1,2 @@
 # Label
-My Frontend project
+My CV
